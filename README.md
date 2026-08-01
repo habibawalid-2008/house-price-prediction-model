@@ -1,8 +1,8 @@
  🏠 House Price Prediction using Machine Learning
  📌 Project Overview
 This project focuses on building a **Supervised Machine Learning** model to predict residential house prices based on various features such as area, number of rooms, location, and property conditions. 
-
 The main objective is to help real estate agencies and buyers accurately estimate property market values and optimize pricing strategies.
+
  🛠️ Tech Stack & Tools
 Language:*Python
 Libraries:*Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
